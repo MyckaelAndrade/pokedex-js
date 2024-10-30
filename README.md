@@ -20,4 +20,4 @@ Este é um projeto de uma Pokédex interativa que permite visualizar uma lista d
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/MyckaelAndrade/pokedex-js.git
