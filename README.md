@@ -1,4 +1,4 @@
-# Pokédex Web App
+# Pokédex
 
 Este é um projeto de uma Pokédex interativa que permite visualizar uma lista de Pokémon e acessar detalhes de cada um deles, utilizando a **PokeAPI**. O projeto foi desenvolvido com **HTML5**, **CSS3** e **JavaScript**.
 
